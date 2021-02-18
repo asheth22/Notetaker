@@ -21,10 +21,7 @@ The user accesses the application deployed on Heroku. The application has follow
 * Once on the notes pave the user can add the note title and text and click on the save button
 * The user can click on any of the existing notes to retrieve the nformation
 * The user can click the delete icon next to the note to delete a specific note. 
-## Mock-up
-
-
 ## Application URL
 
-* The URL of the deployed application in Heroku [Code_Quiz]( https://asheth22.github.io/Calendar_App/)
+* The URL of the deployed application in Heroku [Notetaker]( https://mighty-ravine-22037.herokuapp.com/)
 
